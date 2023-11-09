@@ -5,9 +5,10 @@
   
 
 <h2>Certifications</h2>
-- <b>Comptia Sec+</b> (https://google.ca) <br/>
+- <b>Comptia Sec+</b> (https://drive.google.com/file/d/1Gw0Xwdn2GvhdU3Nm7iDwDhyg5rJZh8Ih/view?usp=sharing) <br/>
 - <b>Python PCEP</b> (https://drive.google.com/file/d/1DF5gGo3CpHPV-hHHQfantZb8vqEswJii/view?usp=sharing) <br/>
-- <b>Google cyber security certificate</b> (https://google.ca)
+- <b>Google cyber security certificate</b> (https://drive.google.com/file/d/1GT3LuRzCPcGy5_7CMmPX3Z3Mj8jCDwbH/view?usp=sharing)
+- <b>Cisco cybersecurity Essentials</b> (https://drive.google.com/file/d/1qnClDNjnxI2_b4HApUB9IQQrCkzOdwyb/view?usp=sharing)
   
 
 
