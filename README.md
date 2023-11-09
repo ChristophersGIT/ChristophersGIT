@@ -6,8 +6,8 @@
 
 <h2>Certifications</h2>
 - <b>Python PCEP</b>
-(https://google.ca)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+  (https://google.ca)
+
 
 <h2>Connect with me:</h2>
 
