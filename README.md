@@ -5,8 +5,8 @@
   
 
 <h2>Certifications</h2>
-- <b>Comptia Sec+</b> (https://google.ca)
-- <b>Python PCEP</b> (https://google.ca)
+- <b>Comptia Sec+</b> (https://google.ca),
+- <b>Python PCEP</b> (https://google.ca),
 - <b>Google cyber security certificate</b> (https://google.ca)
   
 
