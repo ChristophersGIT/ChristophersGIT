@@ -2,7 +2,7 @@
 
 <h2>Software Development Projects:</h2>
 - <b>Fuzzy</b>
-  | Url Fuzzer (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  | Url Fuzzer (https://google.ca)
 
 <h2>Certifications</h2>
 - <b>Python</b>
