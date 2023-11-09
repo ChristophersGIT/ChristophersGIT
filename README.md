@@ -1,8 +1,8 @@
 <h1>Christopher's GIT  <br/><a href="https://www.linkedin.com/in/christopher-dsouza-it/">Cybersecurity Professional</a>,  <a href="https://github.com/ChristophersGIT/ChristophersGIT">Programmer</a>, <a href="https://github.com/ChristophersGIT/ChristophersGIT">Tinkerer</a>
 
 <h2>Software Development Projects:</h2>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Fuzzy</b>
+  - Url Fuzzer (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications</h2>
 - <b>Python</b>
