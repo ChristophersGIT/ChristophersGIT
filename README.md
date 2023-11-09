@@ -1,4 +1,10 @@
-<h1>Christopher's GIT  <br/><a href="https://www.linkedin.com/in/christopher-dsouza-it/">Cybersecurity Professional</a>,  <a href="https://github.com/ChristophersGIT/ChristophersGIT">Programmer</a>, <a href="https://github.com/ChristophersGIT/ChristophersGIT">Tinkerer</a>
+<div style="text-align: center;">
+  <h1>Christopher's GIT</h1>
+  <a href="https://www.linkedin.com/in/christopher-dsouza-it/">Cybersecurity Professional</a>,
+  <a href="https://github.com/ChristophersGIT/ChristophersGIT">Programmer</a>,
+  <a href="https://github.com/ChristophersGIT/ChristophersGIT">Tinkerer</a>
+</div>
+
 
 <h2>Software Development Projects:</h2>
 - <b>Fuzzy (Url Fuzzer)</b>  (https://google.ca)
