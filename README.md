@@ -1,8 +1,5 @@
 <h1 align="center">
-  <br>
   <a href="https://yuzu-emu.org/"><img src="https://github.com/ChristophersGIT/ChristophersGIT/assets/147352832/75c37a82-972a-4811-9330-d8ef6e9d905c" alt="yuzu" width="300"></a>
-  <br>
-  <br>
 </h1>
 
 <div style="text-align: center;">
