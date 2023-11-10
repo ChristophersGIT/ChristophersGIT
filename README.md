@@ -1,3 +1,11 @@
+<h1 align="center">
+  <br>
+  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <br>
+  <b>yuzu</b>
+  <br>
+</h1>
+
 <div style="text-align: center;">
   <h1>Christopher's GIT</h1>
   <a href="https://www.linkedin.com/in/christopher-dsouza-it/">Cybersecurity Professional</a> <br/>
