@@ -8,8 +8,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuz![Uploading cybersecuritylogo.jpeg…]()
-u-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <a href="https://yuzu-emu.org/"><img src="https://github.com/ChristophersGIT/ChristophersGIT/assets/147352832/75c37a82-972a-4811-9330-d8ef6e9d905c" alt="yuzu" width="200"></a>
   <br>
   <b>yuzu</b>
   <br>
