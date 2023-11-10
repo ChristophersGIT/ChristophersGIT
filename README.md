@@ -7,7 +7,7 @@
 
 
 <h2>Software Development Projects:</h2>
-- <b>Fuzzy (Url Fuzzer)</b>  (https://google.ca)
+- <b>Fuzzy (Url Fuzzer)</b>  <b><a href="https://github.com/ChristophersGIT/Fuzzy/tree/main">Fuzzy</a></b><br/>
   
 <h2>Certifications</h2>
 - <b><a href="https://drive.google.com/file/d/1Gw0Xwdn2GvhdU3Nm7iDwDhyg5rJZh8Ih/view?usp=sharing">Comptia Sec+</a></b><br/>
