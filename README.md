@@ -4,9 +4,9 @@
 
 <div style="text-align: center;">
   <h1>Christopher's GIT</h1>
-  <a href="https://www.linkedin.com/in/christopher-dsouza-it/">Cybersecurity Professional</a> <br/>
-  <a href="https://github.com/ChristophersGIT/ChristophersGIT">Programmer</a> <br/>
-  <a href="https://github.com/ChristophersGIT/ChristophersGIT">Tinkerer</a>
+  <a href="">Cybersecurity Professional</a> <br/>
+  <a href="">Programmer</a> <br/>
+  <a href="">Tinkerer</a>
 </div>
 
 
